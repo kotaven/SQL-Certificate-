@@ -1,5 +1,4 @@
-# 🗄️ SQL Assessments
-
+# 🗄️ SQL
 This repository contains my **SQL practice assignments** covering database concepts such as **DDL, DML, joins, subqueries, stored procedures, triggers, and transactions**.  
 These exercises helped me gain strong knowledge of **database design and querying**.
 
